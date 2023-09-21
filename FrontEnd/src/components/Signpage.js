@@ -47,8 +47,8 @@ return (
     <div className='im1'>
     
     <div className="login-container1">
-      <h1><b>REGISTRATION</b></h1>
-      <h4>WELCOME TO LOCALSERVICE</h4>
+      <h1><b>SIGNUP PAGE</b></h1>
+      <h4>WELCOME TO GLAM MART</h4>
 
       
       <form onSubmit={handleLoginSubmit}>
