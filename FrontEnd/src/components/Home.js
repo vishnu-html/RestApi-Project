@@ -59,7 +59,7 @@ const Home = () => {
 
   return (
     <center><div className='homes'>
-    <center><b><h2>WELCOME TO LOCALSERVICE</h2></b></center>
+    <center><b><h2>WELCOME TO GLAM MART</h2></b></center>
     
       <div class='container'>
       <form class='form-table'>
