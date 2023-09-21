@@ -50,7 +50,7 @@ const handleLoginSubmit=async(e)=>{
     <br></br><br></br><br></br><br></br>
     <div className="login-container">
       <h1><b>LOGIN</b></h1>
-      <h2>MARKETPLACE FOR LOCALSERVICE</h2>
+      <h2>GLAM MART APPLICATION</h2>
 
       
       <form onSubmit={handleLoginSubmit}>
