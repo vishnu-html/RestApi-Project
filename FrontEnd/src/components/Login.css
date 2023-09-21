@@ -1,0 +1,66 @@
+.im{
+    background-image: url('https://bernadettesmarketplace.files.wordpress.com/2010/05/memorial-day-parade.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+  }
+.login-container {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+ h2{
+    color: rgb(41, 139, 174);
+  }
+  h1{
+    color: rgb(0, 0, 0);
+   background-image: url(''); 
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+  }
+  
+  input {
+    color: #ccc;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: -10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-image: url('https://img.freepik.com/free-photo/black-brick-wall-textured-background_53876-63572.jpg?w=900&t=st=1693506731~exp=1693507331~hmac=e805354e831bbbe5613dc11d2a20a72a3a27eefc99dfd6652f16ac9157ec0179');
+  }
+  
+  button {
+    background-color: rgb(7, 200, 13);
+    color: #090000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 20px
+  }
+
+
+  #hma{
+    background-color: rgb(113, 7, 21);
+    margin-left:20px;
+    color:white;
+  }
+
+  name1{
+    background-image: url('https://img.freepik.com/free-photo/black-brick-wall-textured-background_53876-63572.jpg?w=900&t=st=1693506731~exp=1693507331~hmac=e805354e831bbbe5613dc11d2a20a72a3a27eefc99dfd6652f16ac9157ec0179');
+  }
+  name2{
+    background-image: url('https://img.freepik.com/free-photo/black-brick-wall-textured-background_53876-63572.jpg?w=900&t=st=1693506731~exp=1693507331~hmac=e805354e831bbbe5613dc11d2a20a72a3a27eefc99dfd6652f16ac9157ec0179');
+  }
+  
+

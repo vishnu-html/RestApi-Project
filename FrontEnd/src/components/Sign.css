@@ -1,0 +1,24 @@
+.cc{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wQZHhLOQIf8qaL-mtvAe0FWGQxl5O7n7tw&usqp=CAU');
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+.username{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wQZHhLOQIf8qaL-mtvAe0FWGQxl5O7n7tw&usqp=CAU');
+}
+
+.login-container1 {
+    background-image: url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=600');
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  h4{
+    color:  rgb(113, 7, 7);
+  }

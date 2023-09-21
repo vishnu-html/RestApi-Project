@@ -1,0 +1,41 @@
+.homes{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-HICKX_FzqjdBrOlHw7PHTvqJIgeTJzkNw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: max-content;
+    color: rgb(19, 2, 2);
+  }
+
+
+.buttons{
+    text-align: center;
+}
+
+h2{
+    color: rgb(3, 1, 8);
+    font-style: italic;
+}
+.form-control{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: -10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_MZShTq71YO-K7Vu2tmQmD8iF9cDlXHs5w&usqp=CAU');
+}
+.form-table{
+    width: max-content;
+    padding: 20px;
+}
+.container{
+    width:max-content;
+    margin-left: 30px;
+    color: black;
+
+}
+
+
